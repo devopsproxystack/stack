@@ -1,0 +1,143 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/banner-1.jpg"
+  slider_item:
+    # slider item loop
+    - title : "Your bright career in DevOps/Cloud is our mission"
+      content : "Direct Male and Female DevOps/Cloud Proxy Support, contact us +91 6305758447"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact"
+
+    # slider item loop
+    - title : "Our experts will guide you to achieve your goals in DevOps/Cloud"
+      content : "Direct Male and Female DevOps/Cloud Proxy Support, contact us +91 6305758447"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact"
+
+    # slider item loop
+    - title : "We provide end to end Devops/Cloud Proxy Support"
+      content : "Direct Male and Female DevOps/Cloud Proxy Support, contact us +91 6305758447"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact"
+
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/banner-feature.png"
+  feature_item:
+    # feature item loop
+    - name : Interview Preparation"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "High Quality Guidance to to crack the Interview"
+
+    # feature item loop
+    - name : "Resume Preparation"
+      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+      content : "Helps to prepare Resume as per Market Standards"
+
+    # feature item loop
+    - name : "Interview Support"
+      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      content : "Direct support from DevOps/Cloud Male and Female Working Professional Experts without any consultancy in the middle"
+
+    # feature item loop
+    - name : "DevOps Guidance"
+      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      content : "We provide guidance to perform well in the selected companies after the interview"
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "About Our Vision"
+  image : "images/about/about-us.jpg"
+  content : "Our interview job support helps you to success in your career"
+  button:
+    enable : true
+    label : "Learn more"
+    link : "about"
+
+
+############################# Course ################################
+course:
+  enable : true
+  title : "Our Course"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : "Click to Join the Advance Workshop"
+  title : "Training In Advannce Networking"
+  button:
+    enable : true
+    label : "join now"
+    link : "contact"
+
+
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "images/backgrounds/success-story.jpg"
+  title : "Success Stories"
+  content : "Our realtime proxy experts helped the candidates to crack DevOps/Cloud
+  Interview in Top MNCS and we have many happy clients around the world. 
+  
+  Our main objectives helped the candidates to place them in their dream companies."
+  # video link
+  video_link : ""
+
+
+############################# event ################################
+event:
+  enable : true
+  title : "Upcoming Events"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "DevOps"
+      count : "60"
+
+    # funfact item loop
+    - name : "Interview"
+      count : "50"
+
+    # funfact item loop
+    - name : "Tools"
+      count : "1000"
+
+    # funfact item loop
+    - name : "SATISFIED CLIENT"
+      count : "1400"
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : true
+  title : "Latest News"
+  # blog item comes from "content/**/blog" folder.

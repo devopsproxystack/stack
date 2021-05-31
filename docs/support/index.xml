@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interview Support</title>
+    <link>http://localhost:1313/stack/support/</link>
+    <description>Recent content on Interview Support</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 Carrer4U</copyright><atom:link href="http://localhost:1313/stack/support/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interview Proxy Support</title>
+      <link>http://localhost:1313/stack/support/support-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/stack/support/support-3/</guid>
+      <description> Realtime Proffesional Support Expert Advice High Quality Delivering 100% successful interview  </description>
+    </item>
+    
+    <item>
+      <title>Realtime Guidance</title>
+      <link>http://localhost:1313/stack/support/support-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/stack/support/support-2/</guid>
+      <description> Proxy Interview techniques High Quality Realtime Delivering Breaking the realtime challenges Noise free proxy support  </description>
+    </item>
+    
+    <item>
+      <title>Resume Prepration</title>
+      <link>http://localhost:1313/stack/support/support-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/stack/support/support-1/</guid>
+      <description> Resume prepratin guidance Right technology stack selection Eye catching contents Markets standard profile creation  </description>
+    </item>
+    
+  </channel>
+</rss>
